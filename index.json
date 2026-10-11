@@ -1,0 +1,11 @@
+{
+  "org": "cherrypy",
+  "repo": "tools-legacy",
+  "versions": [
+    {
+      "commit": "f9f5337c8539cb23b01acc1aacae142c6e6f270b",
+      "tag": "",
+      "parsed_at": "2026-10-11T07:47:03.830150+00:00"
+    }
+  ]
+}
