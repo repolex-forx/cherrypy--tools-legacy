@@ -1,0 +1,22 @@
+{
+  "manifest_version": "1.0",
+  "org": "cherrypy",
+  "repo": "tools-legacy",
+  "versions": [
+    {
+      "commit": "f9f5337c8539cb23b01acc1aacae142c6e6f270b",
+      "parsed_at": "2026-10-11T07:44:42.537944+00:00",
+      "filetree": "filetree/f9f5337c8539cb23b01acc1aacae142c6e6f270b.nq.gz",
+      "blobs": [
+        "blob/afcee8326863bf4d33fe6f27442c5cc8b775ff6e.nq.gz",
+        "blob/c110ef33420edc4d38f1968542bcee7488e71bfa.nq.gz",
+        "blob/62cd0cbcfef90d89d99cb7bb555ef0c825c7b279.nq.gz",
+        "blob/b4787c3cf255271ee981837f480c9abf4d9325ea.nq.gz",
+        "blob/c5d580be49a303f3f9fe043d9353a5d602b04952.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
